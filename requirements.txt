@@ -1,0 +1,4 @@
+PyQt5>=5.15
+python-vlc>=3.0.12
+mutagen>=1.46.0
+pyaudio

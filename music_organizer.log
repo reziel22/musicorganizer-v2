@@ -1,0 +1,111 @@
+2025-03-14 16:17:18,194 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:19:38,978 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:21:17,125 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:21:28,126 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:21:36,158 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:21:43,455 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:21:56,827 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:23:45,722 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:23:56,979 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:24:03,045 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:25:16,653 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:25:16,672 - ERROR - Errore nell'inizializzazione di VLC: 'NoneType' object has no attribute 'media_player_new'
+2025-03-14 16:26:41,629 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:26:41,653 - ERROR - Errore nell'inizializzazione di VLC: 'NoneType' object has no attribute 'media_player_new'
+2025-03-14 16:26:47,902 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:26:47,923 - ERROR - Errore nell'inizializzazione di VLC: 'NoneType' object has no attribute 'media_player_new'
+2025-03-14 16:28:04,779 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:28:04,810 - ERROR - Errore nell'inizializzazione di VLC: 'NoneType' object has no attribute 'media_player_new'
+2025-03-14 16:28:09,489 - INFO - Cartelle impostate: Musica=C:\Users\benny\Desktop\2019 radio, Destinazione=.
+2025-03-14 16:28:09,489 - WARNING - Errore durante la lettura dei metadati per ._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3' doesn't start with an ID3 tag
+2025-03-14 16:28:09,489 - WARNING - Errore durante la lettura della durata per ._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,489 - WARNING - Errore durante la lettura dei metadati per ._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3' doesn't start with an ID3 tag
+2025-03-14 16:28:09,489 - WARNING - Errore durante la lettura della durata per ._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,489 - WARNING - Errore durante la lettura dei metadati per ._ghali_-_i-love-you.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ghali_-_i-love-you.mp3' doesn't start with an ID3 tag
+2025-03-14 16:28:09,489 - WARNING - Errore durante la lettura della durata per ._ghali_-_i-love-you.mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,489 - WARNING - Errore durante la lettura dei metadati per ._ligabue_-_certe-donne-brillano.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ligabue_-_certe-donne-brillano.mp3' doesn't start with an ID3 tag
+2025-03-14 16:28:09,489 - WARNING - Errore durante la lettura della durata per ._ligabue_-_certe-donne-brillano.mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,489 - WARNING - Errore durante la lettura dei metadati per ._lizzo_-_juice.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._lizzo_-_juice.mp3' doesn't start with an ID3 tag
+2025-03-14 16:28:09,494 - WARNING - Errore durante la lettura della durata per ._lizzo_-_juice.mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,494 - WARNING - Errore durante la lettura dei metadati per ._madonna-feat-maluma_-_medellin.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._madonna-feat-maluma_-_medellin.mp3' doesn't start with an ID3 tag
+2025-03-14 16:28:09,494 - WARNING - Errore durante la lettura della durata per ._madonna-feat-maluma_-_medellin.mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,668 - WARNING - Errore durante la lettura della durata per ._MANESKIN - L'altra dimensione.mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,668 - WARNING - Errore durante la lettura dei metadati per ._marco-mengoni_-_muhammad-ali.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._marco-mengoni_-_muhammad-ali.mp3' doesn't start with an ID3 tag
+2025-03-14 16:28:09,668 - WARNING - Errore durante la lettura della durata per ._marco-mengoni_-_muhammad-ali.mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,668 - WARNING - Errore durante la lettura dei metadati per ._the-kolors-elodie_-_pensare-male.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._the-kolors-elodie_-_pensare-male.mp3' doesn't start with an ID3 tag
+2025-03-14 16:28:09,668 - WARNING - Errore durante la lettura della durata per ._the-kolors-elodie_-_pensare-male.mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,668 - WARNING - Errore durante la lettura dei metadati per ._tormento-feat-j-ax_-_acqua-su-marte.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._tormento-feat-j-ax_-_acqua-su-marte.mp3' doesn't start with an ID3 tag
+2025-03-14 16:28:09,668 - WARNING - Errore durante la lettura della durata per ._tormento-feat-j-ax_-_acqua-su-marte.mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,673 - WARNING - Errore durante la lettura dei metadati per ._ultimo_-_i-tuoi-particolari.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ultimo_-_i-tuoi-particolari.mp3' doesn't start with an ID3 tag
+2025-03-14 16:28:09,673 - WARNING - Errore durante la lettura della durata per ._ultimo_-_i-tuoi-particolari.mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,865 - WARNING - Errore durante la lettura dei metadati per Matt Sassari - Give It to Me [www.slider.kz].mp3: C:\Users\benny\Desktop\2019 radio\Matt Sassari - Give It to Me [www.slider.kz].mp3: too small
+2025-03-14 16:28:09,865 - WARNING - Errore durante la lettura della durata per Matt Sassari - Give It to Me [www.slider.kz].mp3: can't sync to MPEG frame
+2025-03-14 16:28:09,947 - INFO - Caricati 81 file musicali da C:\Users\benny\Desktop\2019 radio
+2025-03-14 16:31:11,402 - ERROR - Errore nell'inizializzazione di COM: CoInitializeEx() takes from 0 to 1 positional arguments but 2 were given
+2025-03-14 16:31:11,426 - ERROR - Errore nell'inizializzazione di VLC: 'NoneType' object has no attribute 'media_player_new'
+2025-03-14 16:31:16,596 - INFO - Cartelle impostate: Musica=C:\Users\benny\Desktop\2019 radio, Destinazione=.
+2025-03-14 16:31:16,596 - WARNING - Errore durante la lettura dei metadati per ._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3' doesn't start with an ID3 tag
+2025-03-14 16:31:16,596 - WARNING - Errore durante la lettura della durata per ._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,596 - WARNING - Errore durante la lettura dei metadati per ._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3' doesn't start with an ID3 tag
+2025-03-14 16:31:16,599 - WARNING - Errore durante la lettura della durata per ._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,599 - WARNING - Errore durante la lettura dei metadati per ._ghali_-_i-love-you.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ghali_-_i-love-you.mp3' doesn't start with an ID3 tag
+2025-03-14 16:31:16,599 - WARNING - Errore durante la lettura della durata per ._ghali_-_i-love-you.mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,599 - WARNING - Errore durante la lettura dei metadati per ._ligabue_-_certe-donne-brillano.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ligabue_-_certe-donne-brillano.mp3' doesn't start with an ID3 tag
+2025-03-14 16:31:16,599 - WARNING - Errore durante la lettura della durata per ._ligabue_-_certe-donne-brillano.mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,599 - WARNING - Errore durante la lettura dei metadati per ._lizzo_-_juice.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._lizzo_-_juice.mp3' doesn't start with an ID3 tag
+2025-03-14 16:31:16,599 - WARNING - Errore durante la lettura della durata per ._lizzo_-_juice.mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,599 - WARNING - Errore durante la lettura dei metadati per ._madonna-feat-maluma_-_medellin.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._madonna-feat-maluma_-_medellin.mp3' doesn't start with an ID3 tag
+2025-03-14 16:31:16,599 - WARNING - Errore durante la lettura della durata per ._madonna-feat-maluma_-_medellin.mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,768 - WARNING - Errore durante la lettura della durata per ._MANESKIN - L'altra dimensione.mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,773 - WARNING - Errore durante la lettura dei metadati per ._marco-mengoni_-_muhammad-ali.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._marco-mengoni_-_muhammad-ali.mp3' doesn't start with an ID3 tag
+2025-03-14 16:31:16,773 - WARNING - Errore durante la lettura della durata per ._marco-mengoni_-_muhammad-ali.mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,773 - WARNING - Errore durante la lettura dei metadati per ._the-kolors-elodie_-_pensare-male.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._the-kolors-elodie_-_pensare-male.mp3' doesn't start with an ID3 tag
+2025-03-14 16:31:16,773 - WARNING - Errore durante la lettura della durata per ._the-kolors-elodie_-_pensare-male.mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,773 - WARNING - Errore durante la lettura dei metadati per ._tormento-feat-j-ax_-_acqua-su-marte.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._tormento-feat-j-ax_-_acqua-su-marte.mp3' doesn't start with an ID3 tag
+2025-03-14 16:31:16,773 - WARNING - Errore durante la lettura della durata per ._tormento-feat-j-ax_-_acqua-su-marte.mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,773 - WARNING - Errore durante la lettura dei metadati per ._ultimo_-_i-tuoi-particolari.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ultimo_-_i-tuoi-particolari.mp3' doesn't start with an ID3 tag
+2025-03-14 16:31:16,773 - WARNING - Errore durante la lettura della durata per ._ultimo_-_i-tuoi-particolari.mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,899 - WARNING - Errore durante la lettura dei metadati per Matt Sassari - Give It to Me [www.slider.kz].mp3: C:\Users\benny\Desktop\2019 radio\Matt Sassari - Give It to Me [www.slider.kz].mp3: too small
+2025-03-14 16:31:16,901 - WARNING - Errore durante la lettura della durata per Matt Sassari - Give It to Me [www.slider.kz].mp3: can't sync to MPEG frame
+2025-03-14 16:31:16,966 - INFO - Caricati 81 file musicali da C:\Users\benny\Desktop\2019 radio
+2025-03-14 16:48:35,780 - INFO - Cartelle impostate: Musica=C:\Users\benny\Desktop\2019 radio, Destinazione=.
+2025-03-14 16:48:40,895 - INFO - Riproduzione avviata: C:\Users\benny\Desktop\2019 radio\ANNA x ALEXANDRA STAN - VETRI NERI SAXOBEAT (5HOURS x CAP x ANDREA BAGLIONI REMIX).mp3
+2025-03-14 16:49:00,772 - INFO - Cartelle impostate: Musica=C:\Users\benny\Desktop\2019 radio, Destinazione=C:\Users\benny\Desktop\oraganizzatore
+2025-03-14 16:49:02,780 - INFO - Riproduzione avviata: C:\Users\benny\Desktop\2019 radio\._madonna-feat-maluma_-_medellin.mp3
+2025-03-14 16:49:06,742 - INFO - Riproduzione avviata: C:\Users\benny\Desktop\2019 radio\francesca amori - CHU CHU PAMELA RMX (VillaBanks, El Alfa, L.mp3
+2025-03-14 16:53:19,147 - INFO - Cartelle impostate: Musica=C:\Users\benny\Desktop\2019 radio, Destinazione=C:\Users\benny\Desktop\oraganizzatore
+2025-03-14 16:53:19,226 - WARNING - Errore durante la lettura dei metadati per ._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:19,226 - WARNING - Errore durante la lettura dei metadati per ._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:19,226 - WARNING - Errore durante la lettura dei metadati per ._ghali_-_i-love-you.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ghali_-_i-love-you.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:19,226 - WARNING - Errore durante la lettura dei metadati per ._ligabue_-_certe-donne-brillano.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ligabue_-_certe-donne-brillano.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:19,226 - WARNING - Errore durante la lettura dei metadati per ._lizzo_-_juice.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._lizzo_-_juice.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:19,226 - WARNING - Errore durante la lettura dei metadati per ._madonna-feat-maluma_-_medellin.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._madonna-feat-maluma_-_medellin.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:19,354 - WARNING - Errore durante la lettura dei metadati per ._marco-mengoni_-_muhammad-ali.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._marco-mengoni_-_muhammad-ali.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:19,354 - WARNING - Errore durante la lettura dei metadati per ._the-kolors-elodie_-_pensare-male.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._the-kolors-elodie_-_pensare-male.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:19,354 - WARNING - Errore durante la lettura dei metadati per ._tormento-feat-j-ax_-_acqua-su-marte.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._tormento-feat-j-ax_-_acqua-su-marte.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:19,359 - WARNING - Errore durante la lettura dei metadati per ._ultimo_-_i-tuoi-particolari.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ultimo_-_i-tuoi-particolari.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:19,440 - WARNING - Errore durante la lettura dei metadati per Matt Sassari - Give It to Me [www.slider.kz].mp3: C:\Users\benny\Desktop\2019 radio\Matt Sassari - Give It to Me [www.slider.kz].mp3: too small
+2025-03-14 16:53:23,872 - INFO - Cartelle impostate: Musica=C:\Users\benny\Desktop\2019 radio, Destinazione=C:\Users\benny\Desktop\oraganizzatore
+2025-03-14 16:53:23,947 - WARNING - Errore durante la lettura dei metadati per ._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:23,947 - WARNING - Errore durante la lettura dei metadati per ._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:23,947 - WARNING - Errore durante la lettura dei metadati per ._ghali_-_i-love-you.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ghali_-_i-love-you.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:23,947 - WARNING - Errore durante la lettura dei metadati per ._ligabue_-_certe-donne-brillano.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ligabue_-_certe-donne-brillano.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:23,947 - WARNING - Errore durante la lettura dei metadati per ._lizzo_-_juice.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._lizzo_-_juice.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:23,947 - WARNING - Errore durante la lettura dei metadati per ._madonna-feat-maluma_-_medellin.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._madonna-feat-maluma_-_medellin.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:24,066 - WARNING - Errore durante la lettura dei metadati per ._marco-mengoni_-_muhammad-ali.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._marco-mengoni_-_muhammad-ali.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:24,071 - WARNING - Errore durante la lettura dei metadati per ._the-kolors-elodie_-_pensare-male.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._the-kolors-elodie_-_pensare-male.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:24,071 - WARNING - Errore durante la lettura dei metadati per ._tormento-feat-j-ax_-_acqua-su-marte.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._tormento-feat-j-ax_-_acqua-su-marte.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:24,071 - WARNING - Errore durante la lettura dei metadati per ._ultimo_-_i-tuoi-particolari.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ultimo_-_i-tuoi-particolari.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:24,164 - WARNING - Errore durante la lettura dei metadati per Matt Sassari - Give It to Me [www.slider.kz].mp3: C:\Users\benny\Desktop\2019 radio\Matt Sassari - Give It to Me [www.slider.kz].mp3: too small
+2025-03-14 16:53:58,004 - INFO - Cartelle impostate: Musica=C:\Users\benny\Desktop\2019 radio, Destinazione=C:\Users\benny\Desktop\oraganizzatore
+2025-03-14 16:53:58,087 - WARNING - Errore durante la lettura dei metadati per ._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._charlie-charles-with-dardust_-_calipso-feat-sfera-ebbasta-mahmood-fabri.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:58,087 - WARNING - Errore durante la lettura dei metadati per ._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._daddy-yankee-katy-perry-feat-snow_-_con-calma.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:58,087 - WARNING - Errore durante la lettura dei metadati per ._ghali_-_i-love-you.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ghali_-_i-love-you.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:58,087 - WARNING - Errore durante la lettura dei metadati per ._ligabue_-_certe-donne-brillano.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ligabue_-_certe-donne-brillano.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:58,087 - WARNING - Errore durante la lettura dei metadati per ._lizzo_-_juice.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._lizzo_-_juice.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:58,087 - WARNING - Errore durante la lettura dei metadati per ._madonna-feat-maluma_-_medellin.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._madonna-feat-maluma_-_medellin.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:58,185 - WARNING - Errore durante la lettura dei metadati per ._marco-mengoni_-_muhammad-ali.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._marco-mengoni_-_muhammad-ali.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:58,185 - WARNING - Errore durante la lettura dei metadati per ._the-kolors-elodie_-_pensare-male.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._the-kolors-elodie_-_pensare-male.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:58,185 - WARNING - Errore durante la lettura dei metadati per ._tormento-feat-j-ax_-_acqua-su-marte.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._tormento-feat-j-ax_-_acqua-su-marte.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:58,190 - WARNING - Errore durante la lettura dei metadati per ._ultimo_-_i-tuoi-particolari.mp3: 'C:\\Users\\benny\\Desktop\\2019 radio\\._ultimo_-_i-tuoi-particolari.mp3' doesn't start with an ID3 tag
+2025-03-14 16:53:58,285 - WARNING - Errore durante la lettura dei metadati per Matt Sassari - Give It to Me [www.slider.kz].mp3: C:\Users\benny\Desktop\2019 radio\Matt Sassari - Give It to Me [www.slider.kz].mp3: too small
